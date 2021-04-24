@@ -1,0 +1,30 @@
+/* /* table {
+    /* bord */
+
+
+table{
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-right: auto;  
+    margin-left: auto;
+}
+
+thead  td {
+
+    background-color:cadetblue;
+    border: 3px solid black; 
+    text-align: center;
+  }
+
+tbody td{
+    text-align: center;
+    padding-top: 20px;
+}
+
+tbody td{
+    border: 1px solid black;
+}
+
+div{
+    text-align: center;
+}
